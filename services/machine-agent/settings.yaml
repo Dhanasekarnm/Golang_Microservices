@@ -1,0 +1,6 @@
+endpoints:
+  checkQueue: "http://localhost:8080/checkqueue"
+  getBotDetails: "getBotDetailsURL"
+  downloadBot: "downloadBotURL"
+  sendResult: "sendResultURL"
+  updateStatusResult: "updateStatusResultURL"
